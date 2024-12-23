@@ -1,2 +1,2 @@
 # Alcohol-Detector-and-Engine-Locking-System-Using-Arduino-Uno-and-MQ3-Sensor
-Alcohol Detection and Engine Locking System using Arduino Uno and MQ-3 sensor to measure BAC and disable ignition if limits are exceeded, ensuring road safety.
+An Alcohol Detection and Engine Locking System leveraging an MQ-3 sensor and Arduino Uno to enhance road safety. It measures BAC from the driver’s breath and disables the vehicle’s ignition if the BAC exceeds the legal threshold. Features include real-time feedback via an LCD, LEDs, and a buzzer. A compact, cost-effective solution to mitigate drunk driving risks, with potential integration into future vehicle safety standards.
